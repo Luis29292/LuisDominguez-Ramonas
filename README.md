@@ -1,5 +1,6 @@
 # LuisDominguez-Ramonas
 Primer Círculo
 Segundo azul
-Primer verde
-Segundo Verde
+Primer rojo
+Segundo rojo
+Tercer Naranja
